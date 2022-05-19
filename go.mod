@@ -1,4 +1,4 @@
-module godjan
+module github.com/mjwhodur/godjan
 
 go 1.18
 
